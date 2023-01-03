@@ -2,6 +2,8 @@
 
 This repository contains the lab notebook for Week 1 of BEE 6940, Climate Risk Analysis. 
 
+If enrolled in the class, a PDF of the completed notebook, **with all cells evaluated**, should be submitted to Gradescope *no later* than Monday, January 30, at 12:00pm. 10% will be deducted for each day that the notebook is late.
+
 ## Prerequisites
 
 1. [Install Julia] before beginning this lab. This notebook was developed with version 1.8.2, but any 1.8.x should work (there could be some issues with other versions, depending on what's changed).
@@ -39,3 +41,9 @@ This repository contains the lab notebook for Week 1 of BEE 6940, Climate Risk A
 After completing this lab, students will be able to:
 - open and work with Jupyter notebooks and Julia;
 - solve simple Julia programming tasks.
+
+## Dependencies
+
+This notebook uses the following packages:
+- `Plots.jl`
+- `Distributions.jl`
