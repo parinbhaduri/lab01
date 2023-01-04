@@ -2,7 +2,7 @@
 
 This repository contains the lab notebook for Week 1 of BEE 6940, Climate Risk Analysis. 
 
-If enrolled in the class, a PDF of the completed notebook, **with all cells evaluated**, should be submitted to Gradescope *no later* than Monday, January 30, at 12:00pm. 10% will be deducted for each day that the notebook is late.
+If enrolled in the class, a PDF of the completed notebook, **with all cells evaluated**, should be submitted to Gradescope *no later* than Monday, January 30, at 1:00pm. 10% will be deducted for each day that the notebook is late.
 
 ## Prerequisites
 
