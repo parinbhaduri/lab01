@@ -6,7 +6,7 @@ If enrolled in the class, a PDF of the completed notebook, **with all cells eval
 
 ## Prerequisites
 
-1. [Install Julia] before beginning this lab. This notebook was developed with version 1.8.2, but any 1.8.x should work (there could be some issues with other versions, depending on what's changed).
+1. [Install Julia](https://julialang.org/downloads/) before beginning this lab. This notebook was developed with version 1.8.2, but any 1.8.x should work (there could be some issues with other versions, depending on what's changed).
 2. If necessary, [install git](https://happygitwithr.com/install-git.html) and [create a GitHub account](https://github.com). 
 3. [Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). I recommend doing this in a dedicated `BEE6940/` folder, which can also house homework assignment repositories and lecture notes. You can clone directly into the `BEE6940/` folder.   For Windows (or from another graphical interface), just create a `BEE6940` folder, then a `labs` folder inside of that, then clone into that folder. Or to clone into a `BEE6940/labs` folder, from a command prompt:
     ```bash
@@ -19,7 +19,7 @@ If enrolled in the class, a PDF of the completed notebook, **with all cells eval
 ## Opening The Notebook
 
 1. To interact (view and run) the notebook, there are two options:
-  - Install an integrated development environment, or IDE (I recommend [VS Code](https://code.visualstudio.com/ with the [Julia extension](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)). 
+  - Install an integrated development environment, or IDE (I recommend [VS Code](https://code.visualstudio.com/) with the [Julia extension](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia)). 
   - Use the [`IJulia.jl` package](https://github.com/JuliaLang/IJulia.jl). I've included this in the project environment (discussed below), so no further steps are needed.  
 2. Opening the notebook will depend on what you decided to do in the previous step. 
   - If you installed VS Code, you should be able to just open `lab1.ipynb` and everything should just work. 
